@@ -27,6 +27,8 @@ In its most basic form, the system is programmed so that if the moisture level o
 - The system includes a humidity and temperature sensor (BMP 280) that keeps track of the system's present atmosphere and influences irrigation. 
 - Furthermore, the system updates its status, sends a reminder message (SMS) about watering his/her plants to the recipient. All of this is accomplished with the Arduino GSM shield.
 
+![image]()
+
 
 
 
